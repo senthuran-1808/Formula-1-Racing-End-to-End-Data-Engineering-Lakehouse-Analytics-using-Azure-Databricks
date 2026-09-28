@@ -1,5 +1,4 @@
-# 🏎️ Formula 1 Racing - End-to-End Data Engineering Lakehouse Project
-
+# 🏎️ Formula 1 Racing - End-to-End Data Engineering & Lakehouse Analytics using Azure Databricks
 ## 📌 Project Overview
 
 This project is an end-to-end **Data Engineering and Analytics Lakehouse project** built using **Azure Databricks**.

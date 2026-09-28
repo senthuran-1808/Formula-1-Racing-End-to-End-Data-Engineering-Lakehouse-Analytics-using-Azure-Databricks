@@ -1,6 +1,8 @@
 # 🏎️ Formula 1 Racing - End-to-End Data Engineering & Lakehouse Analytics using Azure Databricks
 ## 📌 Project Overview
 
+![Uploading ChatGPT Image Sep 28, 2026, 10_59_34 PM.png…]()
+
 This project is an end-to-end **Data Engineering and Analytics Lakehouse project** built using **Azure Databricks**.
 
 The project uses Formula 1 racing data collected from the official Formula 1 data source. The extracted data is available in different file formats such as **CSV and JSON**.
